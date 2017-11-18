@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "sprites/stealer/stand/stealer_stand_left_1.png",
+	"frame": {"x":708,"y":475,"w":351,"h":475},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":23,"y":2,"w":351,"h":475},
+	"sourceSize": {"w":490,"h":490}
+},
+{
+	"filename": "sprites/stealer/stand/stealer_stand_left_2.png",
+	"frame": {"x":1062,"y":0,"w":350,"h":477},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":0,"w":350,"h":477},
+	"sourceSize": {"w":490,"h":490}
+},
+{
+	"filename": "sprites/stealer/walk_left/0001",
+	"frame": {"x":1412,"y":0,"w":335,"h":472},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":39,"y":2,"w":335,"h":472},
+	"sourceSize": {"w":490,"h":490}
+},
+{
+	"filename": "sprites/stealer/walk_left/0002",
+	"frame": {"x":1059,"y":477,"w":348,"h":473},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":26,"y":2,"w":348,"h":473},
+	"sourceSize": {"w":490,"h":490}
+},
+{
+	"filename": "sprites/stealer/walk_left/0003",
+	"frame": {"x":0,"y":0,"w":354,"h":475},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":20,"y":2,"w":354,"h":475},
+	"sourceSize": {"w":490,"h":490}
+},
+{
+	"filename": "sprites/stealer/walk_left/0004",
+	"frame": {"x":354,"y":0,"w":354,"h":475},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":20,"y":2,"w":354,"h":475},
+	"sourceSize": {"w":490,"h":490}
+},
+{
+	"filename": "sprites/stealer/walk_left/0005",
+	"frame": {"x":354,"y":475,"w":354,"h":473},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":20,"y":2,"w":354,"h":473},
+	"sourceSize": {"w":490,"h":490}
+},
+{
+	"filename": "sprites/stealer/walk_left/0006",
+	"frame": {"x":708,"y":0,"w":354,"h":475},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":20,"y":2,"w":354,"h":475},
+	"sourceSize": {"w":490,"h":490}
+},
+{
+	"filename": "sprites/stealer/walk_left/0007",
+	"frame": {"x":0,"y":475,"w":354,"h":475},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":20,"y":2,"w":354,"h":475},
+	"sourceSize": {"w":490,"h":490}
+},
+{
+	"filename": "sprites/stealer/walk_left/0008",
+	"frame": {"x":1407,"y":477,"w":347,"h":473},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":27,"y":2,"w":347,"h":473},
+	"sourceSize": {"w":490,"h":490}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "character.png",
+	"format": "RGBA8888",
+	"size": {"w":1754,"h":950},
+	"scale": "0.7",
+	"smartupdate": "$TexturePacker:SmartUpdate:2d16b3dc6d0c98126a3467c0dd82765a:2956cb0d22cca02cf2cff18f1ba2b1fe:42e475aa4a03af306bdc7acb5ff91d19$"
+}
+}
